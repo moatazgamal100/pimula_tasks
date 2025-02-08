@@ -45,7 +45,7 @@
   border-radius: 0px 10px 0px 10px;
 }
 .link-color{
-  color: #357FB0;  
+  color: #357FB0 !important;  
 }
 .bg-Curious-Blue{
   background-color: #357FB0 !important;

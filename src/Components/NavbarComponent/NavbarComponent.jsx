@@ -69,13 +69,13 @@ const NavbarComponent = () => {
           <div className="d-flex justify-content-center align-items-center mt-4">
             <button
               type="submit"
-              class="border-0 py-2 px-4 me-3 button-border bg-Curious-Blue"
+              class="border-0 py-2 px-4 me-3 button-border bg-Curious-Blue text-white"
             >
               Contact us
             </button>
             <button
               type="submit"
-              class="border-Turquoise py-2 px-4 me-3 button-border bg-white"
+              class="border-Turquoise py-2 px-4 me-3 link-color button-border bg-white"
             >
               Book A meeting
             </button>
