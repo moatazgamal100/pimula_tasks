@@ -103,15 +103,9 @@
   transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out, border-color 0.3s ease-in-out;
 }
 
-.bg-Curious-Blue:hover {
+.button-hover:hover {
   background-color: #40E0D0 !important;
   color: white !important;
-}
-
-.bg-white:hover {
-  background-color: #40E0D0 !important; 
-  color: white !important;
-  border-color: #40E0D0 !important;
 }
 
 .border-Turquoise{
