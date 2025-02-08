@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+* {
+  font-family: 'Poppins', sans-serif !important;
+}
+.top-section {
+  position: relative;
+  height: 100vh;
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0)),
+              url(../public/assets/three-businessmen.png) center/cover no-repeat;
+  color: white;
+}
+.nabar{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.7); /* Ensure the navbar is not affected by fade */
+  z-index: 1000;
+}
+.text-overlay {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
+.button-border {
+  border-radius: 0px 10px 0px 10px;
+}
+.link-color{
+  color: #357FB0;  
+}
+.bg-Curious-Blue{
+  background-color: #357FB0 !important;
+}
+.text-Turquoise{
+  color: #25E2CC;
+}
+.bg-Pattens-Blue{
+  background-color: #DBEAF4;
+}
+.text-Dark-Gray{
+  color: #AAAAAA;
+}
+.bg-nero{
+  background-color: #222222;
+}
+.carousel-height{
+  height: 60vh !important;
+}
+@media (max-width: 992px) { 
+  .carousel-height {
+    height: 100vh !important;
+  }
+}
+@media (max-width: 667px) { 
+  .carousal-p-small-screen {
+    font-size: 10px !important;
+  }
+}
+.w-80px{
+  width: 50.55px !important;
+}
+.h-64px{
+  height: 35px !important;
+}
+.victor-size{
+  width: 8px !important;
+  height: 8px !important;
+}
+.btn-carousel{
+  width: 10px !important;
+  height: 10px !important;
+}
+.bg-Cerulean{
+  background-color: #0C74B8 ;
+}
+.text-Cerulean{
+  color: #0C74B8 ;
+}
+.service-icon{
+  width: 50px !important;
+  height: 50px !important;
+}
+.RegionalAllocation-section{
+  position: relative;
+  background:
+              url(../public/assets/RegionalAllocation-background.png) center/cover no-repeat;
+  color: white;
+}
+.vh-50{
+  height: 50vh;
+
+}
+.bg-Denim{
+  background-color:#0960B2;
+}
+.w-60{
+  width: 60% !important;
+}
+.bg-Curious-Blue
+{
+  background-color: #387EBE !important;
+}
+.bg-Alice-Blue{
+  background-color: #EDF4F9 !important;
+}
+.fs-50px{
+  font-size: 50px !important;
+}
+.h-30vh{
+  height: 30vh !important;
+}
+
+
