@@ -7,11 +7,11 @@ const NavbarComponent = () => {
       <div className="top-section">
         <nav className="navbar navbar-expand-lg navbar-dark px-5">
           <div className="container-fluid">
-            <Link className="navbar-brand" to="#">
-              <img src="/assets/logo.png" className="w-50" alt="Logo" />
+            <Link className="navbar-brand w-50" to="#">
+              <img src="/assets/logo.png" className="logo" alt="Logo" />
             </Link>
             <button
-              className="navbar-toggler bg-Curious-Blue"
+              className="navbar-toggler bg-Curious-Blue justify-content-end"
               type="button"
               data-bs-toggle="collapse"
               data-bs-target="#navbarNav"
@@ -75,7 +75,7 @@ const NavbarComponent = () => {
             </button>
             <button
               type="submit"
-              class="border-0 py-2 px-4 me-3 button-border bg-white"
+              class="border-Turquoise py-2 px-4 me-3 button-border bg-white"
             >
               Book A meeting
             </button>

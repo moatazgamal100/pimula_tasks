@@ -5,7 +5,7 @@ const SSC = () => {
     <>
       <div className="bg-Pattens-Blue">
         <div className="ps-5 py-4">
-          <h2 className="link-color">Why Choose SSC</h2>
+          <h2 className="link-color pb-5">Why Choose SSC</h2>
         </div>
         <div className="container">
           <div className="row">

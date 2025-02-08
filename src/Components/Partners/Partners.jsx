@@ -5,7 +5,7 @@ const Partners = () => {
     <>
       <div className="bg-nero">
         <div className="ps-5 py-4">
-          <h2 className="text-white">Hear From Our Partners</h2>
+          <h2 className="text-white pb-5">Hear From Our Partners</h2>
         </div>
         <div
           id="customCarousel"

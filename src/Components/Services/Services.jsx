@@ -5,7 +5,7 @@ const Services = () => {
     <>
       <div className="bg-nero pb-5">
         <div className="ps-5 py-4">
-          <h2 className="text-white">Our Services</h2>
+          <h2 className="text-white pb-5">Our Services</h2>
         </div>
         <div className="container-fluid px-5">
           <div className="row">
